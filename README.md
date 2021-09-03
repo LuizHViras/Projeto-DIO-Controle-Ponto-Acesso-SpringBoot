@@ -4,7 +4,7 @@
 Projeto foi proposto pela Digital Innovation One 
 - Link do código original: https://github.com/rodolfogomes/diolive
 - Professor: Rodolfo Gomes
-- Aula: https://web.digitalinnovation.one/lab/construindo-um-chatbotfit-no-telegram-com-javascript-e-nodejs/learning/16cbe910-4ac1-4e4d-9cf1-464a104b74b7
+- Aula: https://web.digitalinnovation.one/project/construindo-um-sistema-de-controle-de-ponto-e-acesso-com-spring-boot/learning/69bdc79b-338f-4d8d-a4a8-5df1dd71ab4c?back=/track/santander-fullstack-developer
 
 # Descrição
 Neste projeto você terá o desafio de desenvolver uma API Rest para controle de ponto e acesso dos usuários de uma empresa. Utilizaremos Java, Spring Boot, Hibernate Envers e lombok além de documentar toda a API com Swagger.
